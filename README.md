@@ -1,4 +1,4 @@
-# Leetcode-Code-Testcase-Testcase-Test-Result-3015.-Count-the-Number-of-Houses-at-a-Certain-Distance-I
+# Leetcode-Code-3015.-Count-the-Number-of-Houses-at-a-Certain-Distance-I
 # 🔗 **Count of Pairs with Specific Distances in a Graph**
 
 This repository contains an algorithm that computes the number of pairs of nodes in a graph where the shortest path between each pair is exactly equal to a specific distance. The graph is represented as a path with one additional edge between two nodes, and the goal is to compute the number of pairs of nodes that have a shortest path of distance `k` (where `k` ranges from 1 to `n`).
